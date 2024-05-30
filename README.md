@@ -6,7 +6,7 @@ This Python project offers functionalities to perform arithmetic operations on s
 
 The project consists of a 'SparseMatrix' class for representing and manipulating sparse matrices, along with a main script for performing matrix operations such as addition, subtraction, and multiplication.
 
-**SparseMatrix Class**
+## **SparseMatrix Class**
 
 The 'SparseMatrix' class represents a sparse matrix and provides methods for initialization, loading from file, element access, arithmetic operations, and file output.
 
@@ -48,7 +48,7 @@ Clone the repository.
 Navigate to the project directory.
 Run the main script with appropriate command-line arguments.
 
-**Matrix File Format**
+## **Matrix File Format**
 
 The matrix files should adhere to the following format:
 
@@ -56,7 +56,7 @@ The first line specifies the number of rows.
 The second line specifies the number of columns.
 Subsequent lines represent non-zero elements in the format (row, column, value).
 
-**Example Format:**
+## **Example Format:**
 
 
 rows=3
