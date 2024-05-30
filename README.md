@@ -56,9 +56,15 @@ The second line specifies the number of columns.
 Subsequent lines represent non-zero elements in the format (row, column, value).
 
 **Example Format:**
+
 scss
+
 rows=3
+
 cols=3
+
 (0, 0, 1)
+
 (1, 1, 2)
+
 (2, 2, 3)
