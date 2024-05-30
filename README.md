@@ -1,4 +1,4 @@
-**Sparse Matrix Operations**
+# **Sparse Matrix Operations**
 
 This Python project offers functionalities to perform arithmetic operations on sparse matrices. Sparse matrices are matrices that predominantly contain zero elements, and instead of storing all elements, only the non-zero elements and their positions are stored.
 
