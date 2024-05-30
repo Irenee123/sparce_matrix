@@ -48,6 +48,7 @@ Navigate to the project directory.
 Run the main script with appropriate command-line arguments.
 
 **Matrix File Format**
+
 The matrix files should adhere to the following format:
 
 The first line specifies the number of rows.
