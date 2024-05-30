@@ -34,8 +34,9 @@ The main script serves as the entry point for performing matrix operations. It a
 
 **Usage**
 
-Prepare Matrix Files: Create text files representing the sparse matrices. The first two lines should define the number of rows and columns. The following lines should list the non-zero elements in the format (row, col, value).
-Run the Script: Execute the script with command-line arguments specifying the paths to the two matrix files and the directory to save the result.
+***Prepare Matrix Files:*** Create text files representing the sparse matrices. The first two lines should define the number of rows and columns. The following lines should list the non-zero elements in the format '(row, col, value)'.
+
+***Run the Script:*** Execute the script with command-line arguments specifying the paths to the two matrix files and the directory to save the result.
 
 **Requirements**
 
