@@ -13,12 +13,19 @@ The 'SparseMatrix' class represents a sparse matrix and provides methods for ini
 **Methods:**
 
 -***Initialization***: Initializes a sparse matrix object with optional parameters for dimensions and file path.
+
 ****Load from File***: Loads matrix data from a file.
+
 +***Element Access***: Retrieves or sets the value of an element at the specified row and column.
+
 **Arithmetic Operations**:
+
 ***Addition***: Adds another sparse matrix to the current matrix.
+
 ***Subtraction***: Subtracts another sparse matrix from the current matrix.
+
 ***Multiplication***: Multiplies the current matrix by another sparse matrix.
+
 File Output: Writes the matrix data to a file.
 
 **Main Script**
