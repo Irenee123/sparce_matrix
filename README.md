@@ -12,11 +12,11 @@ The 'SparseMatrix' class represents a sparse matrix and provides methods for ini
 
 **Methods:**
 
-*** + Initialization***: Initializes a sparse matrix object with optional parameters for dimensions and file path.
+***Initialization***: Initializes a sparse matrix object with optional parameters for dimensions and file path.
 
-*** + Load from File***: Loads matrix data from a file.
+***Load from File***: Loads matrix data from a file.
 
-*** + Element Access***: Retrieves or sets the value of an element at the specified row and column.
+***Element Access***: Retrieves or sets the value of an element at the specified row and column.
 
 **Arithmetic Operations**:
 
