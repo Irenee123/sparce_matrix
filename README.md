@@ -57,7 +57,6 @@ Subsequent lines represent non-zero elements in the format (row, column, value).
 
 **Example Format:**
 
-scss
 
 rows=3
 
