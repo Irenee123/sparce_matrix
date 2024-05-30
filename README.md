@@ -10,7 +10,7 @@ The project consists of a 'SparseMatrix' class for representing and manipulating
 
 The 'SparseMatrix' class represents a sparse matrix and provides methods for initialization, loading from file, element access, arithmetic operations, and file output.
 
-**Methods:**
+### **Methods:**
 
 ***Initialization***: Initializes a sparse matrix object with optional parameters for dimensions and file path.
 
@@ -18,7 +18,7 @@ The 'SparseMatrix' class represents a sparse matrix and provides methods for ini
 
 ***Element Access***: Retrieves or sets the value of an element at the specified row and column.
 
-**Arithmetic Operations**:
+### **Arithmetic Operations**:
 
 ***1. Addition***: Adds another sparse matrix to the current matrix.
 
@@ -28,21 +28,21 @@ The 'SparseMatrix' class represents a sparse matrix and provides methods for ini
 
 File Output: Writes the matrix data to a file.
 
-**Main Script**
+## **Main Script**
 
 The main script serves as the entry point for performing matrix operations. It accepts command-line arguments specifying paths to two matrix files and a directory to save the result. The user is prompted to choose an operation (addition, subtraction, or multiplication), and the result is saved to the specified directory.
 
-**Usage**
+## **Usage**
 
 ***Prepare Matrix Files:*** Create text files representing the sparse matrices. The first two lines should define the number of rows and columns. The following lines should list the non-zero elements in the format **(row, col, value)**.
 
 ***Run the Script:*** Execute the script with command-line arguments specifying the paths to the two matrix files and the directory to save the result.
 
-**Requirements**
+## **Requirements**
 
 Python 3.x
 
-**Getting Started**
+## **Getting Started**
 
 Clone the repository.
 Navigate to the project directory.
