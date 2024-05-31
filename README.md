@@ -58,7 +58,7 @@ Subsequent lines represent non-zero elements in the format (row, column, value).
 
 ## **Example Format:**
 This below example is not in format as I want to but it will try to show you how it can be look like
-
+```bash
 
 rows=3
 
